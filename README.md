@@ -29,10 +29,10 @@ Each experiment is organized into its own directory with a descriptive name. Fee
 ## Contributing
 If you'd like to contribute to this repository by adding your own CSS experiments or improving existing ones, follow these steps:
 
-## Fork the repository.
-Create a new branch for your changes: git checkout -b feature/new-experiment.
-Make your changes and commit them: git commit -m 'Add a new experiment'.
-Push to the branch: git push origin feature/new-experiment.
-Submit a pull request.
+- Fork the repository.
+- Create a new branch for your changes: git checkout -b feature/new-experiment.
+- Make your changes and commit them: git commit -m 'Add a new experiment'.
+- Push to the branch: git push origin feature/new-experiment.
+- Submit a pull request.
 
 Happy coding!
